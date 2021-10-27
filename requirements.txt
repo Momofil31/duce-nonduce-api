@@ -14,8 +14,8 @@ Pillow==8.2.0
 pycodestyle==2.7.0
 requests==2.25.1
 toml==0.10.2
-torch==1.8.1+cpu
-torchvision==0.9.1+cpu
+torch
+torchvision
 typing-extensions==3.10.0.0
 urllib3==1.26.4
 Werkzeug==1.0.1
